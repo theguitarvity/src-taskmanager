@@ -1,0 +1,19 @@
+{
+  "name": "src-taskmanager",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theguitarvity/src-taskmanager.git"
+  },
+  "author": "Victor Lopes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theguitarvity/src-taskmanager/issues"
+  },
+  "homepage": "https://github.com/theguitarvity/src-taskmanager#readme",
+  "description": ""
+}
