@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
-    "test": "npm run test"
+    "test": "npm run test",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
     "url": "https://github.com/theguitarvity/src-taskmanager/issues"
   },
   "homepage": "https://github.com/theguitarvity/src-taskmanager#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
